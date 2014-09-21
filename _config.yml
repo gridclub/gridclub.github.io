@@ -1,12 +1,14 @@
-markdown: redcarpet
+title: GRiD 
+author: UMass Amherst GRiD group
+description: Website of the "Graduate Researchers interested in Data" group. 
+
+markdown: kramdown
 highlighter: null
 permalink: /:title
 
 url:
 baseurl:
 
-redcarpet:
-  extensions: [strikethrough, tables]
 
 sass:
   sass_dir: public/css

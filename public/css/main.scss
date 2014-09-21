@@ -4,7 +4,11 @@
 @import 'syntax';
 
 $site-background-color: #f5f5f5;
-$contrast-color: #333;
+
+/*$contrast-color: #333;
+*/
+
+$contrast-color: #881c1c;
 
 $azul-accent-color: #0070bb;
 $ruby-accent-color: #e0115f;
@@ -76,6 +80,14 @@ p code {
   background-color: #f8f8f8;
   border-radius: 3px;
   white-space: nowrap;
+}
+
+p {
+ color: #333;
+}
+
+ul, li {
+ color: #333;
 }
 
 table {
@@ -241,9 +253,9 @@ dl,
 /*============================================================================*/
 #logo {
   display: inline-block;
-  height: 110px;
-  width: 110px;
-  background-size: 90px 90px;
+  height: 200px;
+  width: 150px;
+  background-size: 160px 160px;
   background-position: left center;
   background-repeat: no-repeat;
 }
