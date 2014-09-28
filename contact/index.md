@@ -7,11 +7,11 @@ To get in touch with the officers of the group, feel free to send us an e-mail. 
 
 Current officers of the group : 
 
-* Gourgoulias Konstantinos, Co-Chair, Mathematics & Statistics.
-* Ramos Emily, Co-Chair, Biostatistics.
-* Lauer Stephen, Co-Treasurer, Biostatistics.
-* Ip Peter, Co-Treasurer, Biostatistics.
-* Quintana Zinn Felicia, Secretary, Biostatistics.
+* Emily Ramos, Co-Chair, Biostatistics.
+* Konstantinos Gourgoulias, Co-Chair, Mathematics & Statistics.
+* Stephen Lauer, Co-Treasurer, Biostatistics.
+* Peter IP, Co-Treasurer, Biostatistics.
+* Felicia Quintana Zinn, Secretary, Biostatistics.
 
 This section of the website is still **under construction**. More information will be added soon.  
 
