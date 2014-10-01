@@ -9,7 +9,8 @@ Welcome. This is the webpage of the GRiD group.
 
 * What is the GRiD?
 
-The GRiD or "Graduate Researchers interested in Data" is the first group for UMass Amherst graduate students that has a focus on data science.
+The GRiD or "Graduate Researchers interested in Data" is the first group for UMass Amherst graduate students that has a focus on data science. We are a recognized graduate student organization. You can check out our constitution <a href="https://docs.google.com/document/d/1bkYeTIYTL6-YS5ffK9E47_-soO0hpJQF2MQzoXWErzc/edit?usp=sharing">here</a>. 
+
 
 * Who can join the group? 
 
