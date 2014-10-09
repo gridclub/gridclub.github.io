@@ -20,7 +20,7 @@ Thursday, October 9, we had a meeting about visualizations with different tools.
 
 A great thing about plotly is that you can share the graphs on your webpage (by using the html **iframe** command). 
 
-<iframe width="600" height="600" frameborder="0" seamless="seamless" scrolling="no" src="https://plot.ly/~kgourgou/16.embed?width=800&height=600"></iframe>
+<iframe width="300" height="300" frameborder="0" seamless="seamless" scrolling="no" src="https://plot.ly/~kgourgou/16.embed?width=800&height=600"></iframe>
 
 # Shiny
 
