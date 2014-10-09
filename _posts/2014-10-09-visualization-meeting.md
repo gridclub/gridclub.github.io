@@ -7,6 +7,11 @@ tags: []
 
 Thursday, October 9, we had a meeting about visualizations with different tools. Here you can find links to the tools we talked about. 
 
+# ggplot
+
+[Steele's presentation](https://drive.google.com/file/d/0B4JwQ7883JIGbUszYy03c1FmcjQ/view?usp=sharing).
+
+
 # Plotly
 
 * Getting started with [ggplot2 and Plotly](https://plot.ly/r/).
