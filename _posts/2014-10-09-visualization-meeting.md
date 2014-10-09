@@ -26,3 +26,6 @@ A great thing about plotly is that you can share the graphs on your webpage (by 
 
 * [seigma suicide app](https://seigma.shinyapps.io/suicide/).
 
+# Google maps API
+
+* You can find more info [here](https://developers.google.com/maps/).
