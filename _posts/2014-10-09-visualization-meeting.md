@@ -29,3 +29,7 @@ A great thing about plotly is that you can share the graphs on your webpage (by 
 # Google maps API
 
 * You can find more info [here](https://developers.google.com/maps/).
+
+# ggmap
+
+* Manual is [here](http://cran.r-project.org/web/packages/ggmap/ggmap.pdf).
