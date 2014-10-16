@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mailing list"
+title: "Mailing lists of the group"
 category: 
 tags: []
 ---

@@ -35,3 +35,5 @@ A great thing about plotly is that you can share the graphs on your webpage (by 
 * Manual is [here](http://cran.r-project.org/web/packages/ggmap/ggmap.pdf).
 
 # [statsTeachR](http://www.statsteachr.org/)
+
+# [ggvis website](http://ggvis.rstudio.com/)
