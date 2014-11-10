@@ -9,5 +9,4 @@ Notes on [integrating facebook and R](https://drive.google.com/file/d/0B4JwQ7883
 
 The notes include info on how to map longitude and latitude data on a map. 
 
-Quick test.
 
