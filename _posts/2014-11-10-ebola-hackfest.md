@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ebola HackFest @ UMass-Amherst (Nov 21-23)"
+title: "HackEbola @ UMass-Amherst (Nov 21-23)"
 category: 
 tags: []
 ---
