@@ -1,0 +1,57 @@
+ggplots2
+========================================================
+author: Steele H. Valenzuela
+date: October 8, 2014
+
+Getting Started
+========================================================
+```{r, eval=TRUE, echo=TRUE}
+install.packages("ggplot2")
+library(ggplot2)
+data(iris)
+flwrs <- iris 
+```
+
+ggplot
+========================================================
+First, let's feel out the data.
+```{r, eval=TRUE, echo=TRUE}
+dim(flwrs)
+head(flwrs)
+```
+Now, let's do a ggplot.
+```{r, eval=FALSE, echo=FALSE}
+ggplot(data = flwrs, aes(x = Sepal.Length, y = Sepal.Width)) + geom_point()
+
+ggplot(data = flwrs, aes(x = Sepal.Length)) + geom_histogram()
+
+ggplot(data = flwrs, aes(x= Petal.Length, y = Petal.Width)) + geom_point() + stat_smooth()
+```
+
+qplot
+=======================================================
+Here are those same plots
+```{r, eval=TRUE, echo=FALSE}
+qplot(Sepal.Length, Sepal.Width, data=flwrs, geom="point")
+
+qplot(Sepal.Length, data=flwrs)
+
+qplot(Petal.Length, Petal.Width, data=flwrs, geom=c("point", "smooth"))
+```
+
+Last but not least, colors
+=======================================================
+```{r, echo=TRUE, eval=FALSE}
+ggplot(data = flwrs, aes(x = Sepal.Length, y = Petal.Width)) + geom_point(aes(color=factor(Species)))
+
+ggplot(data = flwrs, aes(x = Sepal.Length, y = Petal.Width)) + geom_point(color="blue") + facet_grid(.~Species)
+```
+
+And lastly, last
+======================================================
+1. Google your questions
+2. docs.ggplot.org
+3. Ask a buddy
+
+
+
