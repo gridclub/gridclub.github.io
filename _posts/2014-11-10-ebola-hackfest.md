@@ -6,9 +6,9 @@ tags: []
 ---
 
 ### Overview
-Join western Massachusetts data scientists, statisticians, and code mavens for a weekend-long hackathon event focused on gaining insights into the current Ebola outbreak in West Africa.
+Join western Massachusetts data scientists, statisticians, and digital humanitarians for a weekend-long hackathon event focused on gaining insights into the current Ebola outbreak in West Africa.
 
-### Logistics
+### Logistics and Schedule
 [Register now!](http://tinyurl.com/umass-hack-ebola)
 
 This event will be held at UMass-Amherst (exact location TBD). The schedule (still under development) will include the following events:
@@ -25,10 +25,11 @@ Anyone is welcome to participate, but please [register in advance](http://tinyur
 
 ### Resources
 For those interested in learning more about ebola or seeing data on the current outbreak, here are some places to start:
+
 * [CDC website on Ebola](http://www.cdc.gov/vhf/ebola/)
 * [Humanitarian Data Exchange](https://data.hdx.rwlabs.org/dataset?tags=ebola)
 * [Simon B Johnson's Ebola Resources](http://simonbjohnson.github.io/)
-* [Jeff Shaman Group's Ebola Forecasts](http://cpid.iri.columbia.edu/)
+* [Shaman Group's Ebola Forecasts](http://cpid.iri.columbia.edu/)
 
 
 (Please suggest other resources to add in the comments section below or via [pull request on GitHub](https://github.com/UMassAmherst-GRiD/UMassAmherst-GRiD.github.io)!)
