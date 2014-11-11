@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ebola HackFest @ UMass-Amherst (Nov 21-23)"
+title: "HackEbola @ UMass-Amherst (Nov 21-23)"
 category: 
 tags: []
 ---
@@ -27,6 +27,7 @@ Anyone is welcome to participate, but please [register in advance](http://tinyur
 For those interested in learning more about ebola or seeing data on the current outbreak, here are some places to start:
 
 * [CDC website on Ebola](http://www.cdc.gov/vhf/ebola/)
+* [Recent New England Journal of Medicine article](http://www.nejm.org/doi/full/10.1056/NEJMoa1411100#t=articleTop)
 * [Humanitarian Data Exchange](https://data.hdx.rwlabs.org/dataset?tags=ebola)
 * [Simon B Johnson's Ebola Resources](http://simonbjohnson.github.io/)
 * [Shaman Group's Ebola Forecasts](http://cpid.iri.columbia.edu/)
