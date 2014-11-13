@@ -15,6 +15,9 @@ Consumer Key (API Key) bpKMlyn0NXKV8GLFSlCnNYttB
 
 Consumer Secret (API Secret) 9ZtzQfdMf5iWAPWx2UBrfNLuPOn9C5gu4KySqdIZ1XtcsJyw8k
 
+Access Token 2415038215-qur1bPDelyndorfuFl2iC0q6SKq5ZCc6Ve6vTqN 
+
+Access Token Secret WQvrfmEeSHebIuXShXjPuF77EiIEChUkjNTRLqCFNoiZO 
 
 Access Level Read-only (modify app permissions)
 
