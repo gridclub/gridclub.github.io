@@ -15,7 +15,7 @@ Join western Massachusetts data scientists, statisticians, and digital humanitar
 This event will be held at UMass-Amherst (exact location TBD). The schedule (still under development) will include the following events:
 
 * Monday, Nov 17: Data made available
-* 5pm Friday, Nov 21: Opening workshop, team formation
+* 5:30pm Friday, Nov 21: Opening workshop, team formation
 * 1pm Saturday, Nov 22: HackEbola team check-in, status updates, lunch 
 * 2pm Sunday, Nov 23: Late lunch, presentations by all teams
 
