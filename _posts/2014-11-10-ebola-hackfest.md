@@ -12,7 +12,7 @@ Join western Massachusetts data scientists, statisticians, and digital humanitar
 
 ### Logistics and Schedule
 
-This event will be held at UMass-Amherst (exact location TBD). The schedule (still under development) will include the following events:
+This event will be held at UMass-Amherst (1634, LGRT). The schedule (still under development) will include the following events:
 
 * Monday, Nov 17: Data made available
 * 5:30pm Friday, Nov 21: Opening workshop, team formation
