@@ -6,19 +6,20 @@ tags: []
 ---
 
 ### Overview
-Join western Massachusetts data scientists, statisticians, and digital humanitarians for a weekend-long hackathon event focused on gaining insights into the current Ebola outbreak in West Africa.
+Join western Massachusetts data scientists, statisticians, and digital humanitarians for a weekend-long hackathon event focused on wrangling data to gain new insights into the current Ebola outbreak in West Africa.
+
+[Register now!](http://tinyurl.com/umass-hack-ebola)
 
 ### Logistics and Schedule
-[Register now!](http://tinyurl.com/umass-hack-ebola)
 
 This event will be held at UMass-Amherst (exact location TBD). The schedule (still under development) will include the following events:
 
 * Monday, Nov 17: Data made available
 * 5:30pm Friday, Nov 21: Opening workshop, team formation
-* 1pm Saturday, Nov 22: HackFest huddle, status updates, lunch 
+* 1pm Saturday, Nov 22: HackEbola team check-in, status updates, lunch 
 * 2pm Sunday, Nov 23: Late lunch, presentations by all teams
 
-Participants will be encouraged to work in teams at the UMass campus on Saturday and Sunday. Snacks, beverages, and lunches will served free of cost to participants.
+Participants will be encouraged to work in teams at the UMass campus on Friday night, Saturday, and Sunday. Snacks, beverages, and lunches will served free of cost to participants.
 
 Anyone is welcome to participate, but please [register in advance](http://tinyurl.com/umass-hack-ebola), so we know how many participants to plan for!
 
@@ -27,6 +28,7 @@ Anyone is welcome to participate, but please [register in advance](http://tinyur
 For those interested in learning more about ebola or seeing data on the current outbreak, here are some places to start:
 
 * [CDC website on Ebola](http://www.cdc.gov/vhf/ebola/)
+* [_Science_: Special Collection on Ebola](http://www.sciencemag.org/site/extra/ebola/)
 * [Recent New England Journal of Medicine article](http://www.nejm.org/doi/full/10.1056/NEJMoa1411100#t=articleTop)
 * [Humanitarian Data Exchange](https://data.hdx.rwlabs.org/dataset?tags=ebola)
 * [Simon B Johnson's Ebola Resources](http://simonbjohnson.github.io/)
@@ -36,7 +38,7 @@ For those interested in learning more about ebola or seeing data on the current 
 (Please suggest other resources to add in the comments section below or via [pull request on GitHub](https://github.com/UMassAmherst-GRiD/UMassAmherst-GRiD.github.io)!)
 
 ### Volunteering
-We are looking for volunteers to help do everything from giving expert mini-lectures or tutorials on a useful topic to helping to organize and promote the event to cleaning up after the event. When you register, please indicate your interest in volunteering on [the registration form](http://tinyurl.com/umass-hack-ebola).
+Interested in volunteering for HackEbola? Are you an expert who could give a mini-lecture or tutorial on an Ebola-related topic? Able to help to organize and promote the event? Or just willing to help clean up after the event? When you register, please indicate your interest in volunteering on [the registration form](http://tinyurl.com/umass-hack-ebola).
 
 
 ### Acknowledgments
