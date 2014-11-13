@@ -9,6 +9,7 @@ tags: []
 
 [Python data scraping](http://knightlab.northwestern.edu/2014/03/15/a-beginners-guide-to-collecting-twitter-data-and-a-bit-of-web-scraping/)
 
+[Twitter locations](https://dev.twitter.com/streaming/overview/request-parameters#locations)
 
 Consumer Key (API Key) bpKMlyn0NXKV8GLFSlCnNYttB
 
@@ -19,10 +20,4 @@ Access Token 2415038215-qur1bPDelyndorfuFl2iC0q6SKq5ZCc6Ve6vTqN
 
 Access Token Secret WQvrfmEeSHebIuXShXjPuF77EiIEChUkjNTRLqCFNoiZO 
 
-Access Level Read-only (modify app permissions)
 
-
-Owner kgourg
-
-
-Owner ID 2415038215 
