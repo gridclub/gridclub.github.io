@@ -12,7 +12,7 @@ Join western Massachusetts data scientists, statisticians, and digital humanitar
 
 ### Logistics and Schedule
 
-This event will be held at UMass-Amherst (exact location TBD). The schedule (still under development) will include the following events:
+This event will be held at UMass-Amherst (1634, LGRT). The schedule (still under development) will include the following events:
 
 * Monday, Nov 17: Data made available
 * 5:30pm Friday, Nov 21: Opening workshop, team formation
@@ -46,3 +46,6 @@ This event is being held in conjunction with the [HackEbola event at the Harvard
 
 ### Sponsors
 Thanks to our sponsors! They include the [UMass-Amherst GRiD student group](http://umassamherst-grid.github.io/), the [Western Massachusetts Data Science, Stats, and R Meetup](http://www.meetup.com/Pioneer-Valley-and-Five-College-R-Statistical-Meetup/), and more on the way!
+
+Big thanks also to the [Department of Mathematics & Statistics](http://www.math.umass.edu) at UMass Amherst for allowing us to use one of the department's seminar rooms for the workshop. 
+
