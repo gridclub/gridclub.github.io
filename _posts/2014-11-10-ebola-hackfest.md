@@ -12,7 +12,7 @@ Join western Massachusetts data scientists, statisticians, and digital humanitar
 
 ### Logistics and Schedule
 
-This event will be held at UMass-Amherst in the Lederle Graduate Research Center Room 1634. The [detailed schedule is available as a PDF](./assets/hackebola-schedule-v1.pdf). The schedule includes the following highlights:
+This event will be held at UMass-Amherst in the Lederle Graduate Research Center Room 1634. The [detailed schedule is available as a PDF](../assets/hackebola-schedule-v1.pdf). The schedule includes the following highlights:
 
 * (week prior to event, exact time TBD) Data made available
 * 5:30pm Friday, Nov 21: Opening workshop, team formation
