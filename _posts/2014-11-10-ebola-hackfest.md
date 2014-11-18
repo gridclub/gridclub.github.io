@@ -12,12 +12,12 @@ Join western Massachusetts data scientists, statisticians, and digital humanitar
 
 ### Logistics and Schedule
 
-This event will be held at UMass-Amherst (1634, LGRT). The schedule (still under development) will include the following events:
+This event will be held at UMass-Amherst in the Lederle Graduate Research Center Room 1634. The [detailed schedule is available as a PDF](./assets/hackebola-schedule-v1.pdf). The schedule includes the following highlights:
 
-* Monday, Nov 17: Data made available
+* (week prior to event, exact time TBD) Data made available
 * 5:30pm Friday, Nov 21: Opening workshop, team formation
 * 1pm Saturday, Nov 22: HackEbola team check-in, status updates, lunch 
-* 2pm Sunday, Nov 23: Late lunch, presentations by all teams
+* 3pm Sunday, Nov 23: HackEbola symposium, team presentations
 
 Participants will be encouraged to work in teams at the UMass campus on Friday night, Saturday, and Sunday. Snacks, beverages, and lunches will served free of cost to participants.
 
