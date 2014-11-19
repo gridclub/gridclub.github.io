@@ -37,6 +37,10 @@ For those interested in learning more about ebola or seeing data on the current 
 
 (Please suggest other resources to add in the comments section below or via [pull request on GitHub](https://github.com/UMassAmherst-GRiD/UMassAmherst-GRiD.github.io)!)
 
+### Data
+
+You can get the data from [here](http://www.qdatum.io/public-sources). You should also register on [ChallengePost](http://hackebolawithdata.challengepost.com/forum_topics/3983-data-posted-formats) for more information. 
+
 ### Volunteering
 Interested in volunteering for HackEbola? Are you an expert who could give a mini-lecture or tutorial on an Ebola-related topic? Able to help to organize and promote the event? Or just willing to help clean up after the event? When you register, please indicate your interest in volunteering on [the registration form](http://tinyurl.com/umass-hack-ebola).
 
