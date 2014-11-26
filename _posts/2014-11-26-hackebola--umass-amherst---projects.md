@@ -5,7 +5,7 @@ category:
 tags: []
 ---
 
-Here you can find more information on the five projects presented during the HackEbola Symposium on Sunday November 21 2014. The HackEbola Symposium was part of the [HackEbola event](http://umassamherst-grid.github.io/ebola-hackfest/). 
+Here you can find more information on the five projects presented during the HackEbola Symposium on Sunday November 23, 2014. The HackEbola Symposium was part of the [HackEbola event](http://umassamherst-grid.github.io/ebola-hackfest/). 
 
 <img src="http://gdurl.com/peRj">
 
