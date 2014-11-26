@@ -55,7 +55,8 @@ Interested in volunteering for HackEbola? Are you an expert who could give a min
 This event is being held in conjunction with the [HackEbola event at the Harvard School of Engineering and Applied Sciences](http://projects.iq.harvard.edu/hack/home-0).
 
 ### Sponsors
-Thanks to our sponsors! They include the [UMass-Amherst GRiD student group](http://umassamherst-grid.github.io/), the [Western Massachusetts Data Science, Stats, and R Meetup](http://www.meetup.com/Pioneer-Valley-and-Five-College-R-Statistical-Meetup/), and more on the way!
+Thanks to our sponsors! They include the Division of [Biostatistics](http://www.umass.edu/sphhs/biostatistics) & [Epidemiology](http://www.umass.edu/sphhs/epidemiology), the [UMass-Amherst GRiD student group](http://umassamherst-grid.github.io/) and the [Western Massachusetts Data Science, Stats, and R Meetup](http://www.meetup.com/Pioneer-Valley-and-Five-College-R-Statistical-Meetup/). 
 
-Big thanks also to the [Department of Mathematics & Statistics](http://www.math.umass.edu) at UMass Amherst for allowing us to use one of the department's seminar rooms for the workshop. 
+Thanks also to the [Department of Mathematics & Statistics](http://www.math.umass.edu) at UMass Amherst for allowing us to use one of the department's seminar rooms for the workshop. 
 
+We could not have done this without your support. 
