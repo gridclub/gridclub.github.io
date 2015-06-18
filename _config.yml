@@ -3,7 +3,6 @@ author: UMass Amherst GRiD group
 description: Website of the "Graduate Researchers interested in Data" group. 
 
 markdown: kramdown
-highlighter: null
 permalink: /:title
 
 url:
