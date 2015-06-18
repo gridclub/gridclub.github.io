@@ -255,9 +255,11 @@ dl,
   display: inline-block;
   height: 200px;
   width: 150px;
-  background-size: 160px 160px;
+  background-size: 150px 100px;
   background-position: left center;
   background-repeat: no-repeat;
+  position: relative;
+  left:-50px;
 }
 
 /*============================================================================*/
