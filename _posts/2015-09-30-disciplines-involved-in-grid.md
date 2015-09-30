@@ -5,6 +5,6 @@ category:
 tags: []
 ---
 
-<img src="http://gdurl.com/PY7f"">
+<img src="http://gdurl.com/PY7f">
 
 
