@@ -5,7 +5,12 @@ category:
 tags: []
 ---
 
-## PL Technology for Data Analysts
+Our first talk of the semester will be given by UMass CS PhD student Daniel Barowy on *October 8, 17:30*. Place is 1634, LGRT.
+
+Abstract and bio follow. 
+
+
+### PL Technology for Data Analysts
 
  The rapid growth in demand for data scientists and analysts suggests that data-driven decision making is increasingly valued.  Nonetheless, in practice, data workers report that most of their time (50% to 80%) is spent performing non-analysis, "data wrangling" tasks like reformatting data and removing errors.  We expect this inefficiency to increase as data volumes grow.
 
