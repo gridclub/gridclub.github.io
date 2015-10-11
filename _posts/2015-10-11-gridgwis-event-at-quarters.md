@@ -5,4 +5,4 @@ category:
 tags: []
 ---
 
-<img src="http://gdurl.com/jYSj" alt="Poster for the event">
+<script type="text/javascript" src="http://gdurl.com/jYSj/viewer.js?w=500&300"></script>
