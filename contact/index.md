@@ -10,7 +10,7 @@ To get in touch with the officers of the group, feel free to send us an e-mail. 
 * Mark Hagemann, Co-Chair of Programming, Enviromental Engineering. 
 * Anupama Pasumarthy, Co-Chair of Operations, Computer Science.
 * Stephen Lauer, Chief Financial Officer, Biostatistics.
-* Ankita Shankdhar, Chief Communications Officer, Applied Mathematics.
+* Ankita Shankhdhar, Chief Communications Officer, Applied Mathematics.
 * Konstantinos Gourgoulias, Chief Technical Officer, Applied Mathematics.
 * Andy Smith, Chief Outreach Officer, Evolution / Biology.
 * Emma Kearney, Chief Networking Officer, Statistics.
