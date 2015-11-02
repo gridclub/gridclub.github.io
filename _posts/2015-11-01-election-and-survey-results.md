@@ -18,7 +18,7 @@ responses = read.csv("data/responses.csv")
 
 ### Step 2: Choosing a ggplot theme 
 
-Since this is a post about elections, I thought I'd go with the `ggthemes::theme_fivethirtyeight` theme, but this doesn't have a y-axis title, so I'll change it accordingly:
+Since this is a post about elections, I thought I'd go with the "ggthemes::theme_fivethirtyeight" theme, but this doesn't have a y-axis title, so I'll change it accordingly:
 
 
 {% highlight r %}
@@ -71,7 +71,7 @@ responses[8, 8] %>%
 {% endhighlight %}
 
 {% highlight r %}
-## [1] "Talks by people in industry, Hands-on data projects / hackathons, Coding, etc. tutorials, Professional events--resume workshops, interview practice, career fairs"
+>> [1] "Talks by people in industry, Hands-on data projects / hackathons, Coding, etc. tutorials, Professional events--resume workshops, interview practice, career fairs"
 {% endhighlight %}
 
 Splitting this string by comma yields a character vector of length 7, despite only 4 checkboxes having been selected:
