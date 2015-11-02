@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "new post"
+title: "Results of Officer Elections and Survey"
 category: 
 tags: []
 ---
