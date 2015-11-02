@@ -21,14 +21,14 @@ responses = read.csv("data/responses.csv")
 Since this is a post about elections, I thought I'd go with the `ggthemes::theme_fivethirtyeight` theme, but this doesn't have a y-axis title, so I'll change it accordingly:
 
 
-```r
+{% highlight r %}
 library(ggplot2)
 library(ggthemes)
 theme_grid <- theme_fivethirtyeight()
 theme_grid$axis.title = theme_bw()$axis.title
 theme_grid$axis.title.x = theme_bw()$axis.title.x
 theme_grid$axis.title.y = theme_bw()$axis.title.y 
-```
+{% endhighlight %}
 
 
 ### Step 3: Plot the election results
@@ -36,7 +36,7 @@ theme_grid$axis.title.y = theme_bw()$axis.title.y
 The code below produces the plot the follows it. It includes some light preprocessing to get the data into the form that ggplot likes. I won't go into detail about this here; have a look at the documentation for the functions below if you want to know more.
 
 
-```r
+{% highlight r %}
 library(reshape2)
 library(dplyr)
 election <- responses[, 2:6]
@@ -52,7 +52,7 @@ eln.m %>%
   theme_grid +
   theme(axis.title.x = element_blank()) +
   ylab("Percent of Vote")
-```
+{% endhighlight %}
 
 ![](../assets/electionResults/unnamed-chunk-4-1.png) 
 
@@ -65,10 +65,10 @@ Before presenting the survey results, a brief note for future Google Form setup:
 
 
 
-```r
+{% highlight r %}
 responses[8, 8] %>%
   as.character
-```
+{% endhighlight %}
 
 ```
 ## [1] "Talks by people in industry, Hands-on data projects / hackathons, Coding, etc. tutorials, Professional events--resume workshops, interview practice, career fairs"
@@ -77,12 +77,12 @@ responses[8, 8] %>%
 Splitting this string by comma yields a character vector of length 7, despite only 4 checkboxes having been selected:
 
 
-```r
+{% highlight r %}
 responses[8, 8] %>%
   as.character %>%
   strsplit(split = ", ") %>%
   `[[`(1)
-```
+{% endhighlight %}
 
 ```
 ## [1] "Talks by people in industry"          
@@ -97,7 +97,7 @@ responses[8, 8] %>%
 To remedy this, I had to manually replace non-separating commas with something else; I chose to use a forward slash. I did this replacement using the `gsub` function and (not so much here as in the next question) appropriately chosen [regular expresions](https://en.wikipedia.org/wiki/Regular_expression). Here is the result of doing this with the first survey question:
 
 
-```r
+{% highlight r %}
 fixfun <- function(x) {
   out <- x %>%
     gsub(", etc.", " etc.", x = .) %>%
@@ -108,23 +108,23 @@ fixfun <- function(x) {
 surv1 <- responses[, 8] %>% 
   as.character() %>%
   fixfun()
-```
+{% endhighlight %}
 
 The next survey question had a lot of commas inside of parentheses and only one outside of parentheses. Replacement of the inside-parentheses commas is pretty simple using the right regular expression. Actually, I just did away with the parenthetical statements altogether. 
 
 
-```r
+{% highlight r %}
 surv2 <- as.character(responses[, 9]) %>%
   gsub("works, deep", "works / deep", x = .) %>%
   gsub("\\(([^)]+)\\)", "", x = .)
-```
+{% endhighlight %}
 
 Now that that's fixed, we can finally look at the survey responses!
 
 #### Question 1: *What kinds of GRiD events are you most interested in?*
 
 
-```r
+{% highlight r %}
 surv1 %>%
   strsplit(split = ", ") %>%
   unlist() %>%
@@ -137,14 +137,14 @@ surv1 %>%
   theme(axis.title.y = element_blank()) +
   coord_flip() +
   ylab("Number Interested")
-```
+{% endhighlight %}
 
 ![](../assets/electionResults/unnamed-chunk-9-1.png) 
 
 Question 2: *What data science topics do you want to learn (more) about?*
 
 
-```r
+{% highlight r %}
 surv2 %>%
   strsplit(", ") %>%
   unlist() %>%
@@ -157,7 +157,7 @@ surv2 %>%
   theme(axis.title.y = element_blank()) +
   ylab("Number Interested") +
   coord_flip()
-```
+{% endhighlight %}
 
 ![](../assets/electionResults/unnamed-chunk-10-1.png) 
 
