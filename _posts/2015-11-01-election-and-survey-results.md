@@ -11,10 +11,9 @@ The big news out of GRiD this past week was the interim elections for GRiD club 
 
 The elections were conducted online using Google Forms, which returns results as a csv file. So loading the data is straightforward:
 
-
-```r
+{% highlight r %}
 responses = read.csv("data/responses.csv")
-```
+{% endhighlight %}
 
 
 ### Step 2: Choosing a ggplot theme 

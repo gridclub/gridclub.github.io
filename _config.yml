@@ -5,9 +5,10 @@ description: Website of the "Graduate Researchers interested in Data" group.
 markdown: kramdown
 permalink: /:title
 
-url:
-baseurl:
+url: 
+baseurl: 
 
+highlighter: pygments
 
 sass:
   sass_dir: public/css
