@@ -71,7 +71,9 @@ responses[8, 8] %>%
 {% endhighlight %}
 
 {% highlight r %}
->> [1] "Talks by people in industry, Hands-on data projects / hackathons, Coding, etc. tutorials, Professional events--resume workshops, interview practice, career fairs"
+>> [1] "Talks by people in industry, Hands-on data projects / hackathons, 
+Coding, etc. tutorials, Professional events--resume workshops,
+ interview practice, career fairs"
 {% endhighlight %}
 
 Splitting this string by comma yields a character vector of length 7, despite only 4 checkboxes having been selected:
@@ -85,13 +87,13 @@ responses[8, 8] %>%
 {% endhighlight %}
 
 {% highlight r %}
-## [1] "Talks by people in industry"          
-## [2] "Hands-on data projects / hackathons"  
-## [3] "Coding"                               
-## [4] "etc. tutorials"                       
-## [5] "Professional events--resume workshops"
-## [6] "interview practice"                   
-## [7] "career fairs"
+>> [1] "Talks by people in industry"          
+>> [2] "Hands-on data projects / hackathons"  
+>> [3] "Coding"                               
+>> [4] "etc. tutorials"                       
+>> [5] "Professional events--resume workshops"
+>> [6] "interview practice"                   
+>> [7] "career fairs"
 {% endhighlight %}
 
 To remedy this, I had to manually replace non-separating commas with something else; I chose to use a forward slash. I did this replacement using the `gsub` function and (not so much here as in the next question) appropriately chosen [regular expresions](https://en.wikipedia.org/wiki/Regular_expression). Here is the result of doing this with the first survey question:
