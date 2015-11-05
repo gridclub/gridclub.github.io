@@ -61,7 +61,7 @@ As I said, not very exciting. Everyone got 100% of the vote. That's what happens
 
 ### Step 4: Plot the survey responses
 
-Before presenting the survey results, a brief note for future Google Form setup: *don't include commas in checkbox options!*. Google returns the responses to checkbox input for each respondant and question as a as comma-delineated string. Because of this, any commas in the checkbox options, it's impossible for R to disambiguate the delimiter commas from the text commas. For example, here is one person's responses to the question "What kinds of GRiD events are you most interested in?":
+Before presenting the survey results, a brief note for future Google Form setup: *don't include commas in checkbox options!*. Google returns the responses to checkbox input for each respondant and question as a as comma-delineated string. Because of this, it's impossible for R to disambiguate the delimiter commas from the text commas. For example, here is one person's responses to the question "What kinds of GRiD events are you most interested in?":
 
 
 
