@@ -5,7 +5,7 @@ description: Website of the "Graduate Researchers interested in Data" group.
 markdown: kramdown
 permalink: /:title
 
-url: 
+url: "gridclub.io" 
 baseurl: 
 
 highlighter: pygments
