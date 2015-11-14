@@ -1,7 +1,6 @@
 ---
 layout: page
-title:Resources
+title: Resources
 ---
 
-
-
+# Resources for aspiring data scientists.
