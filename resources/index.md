@@ -1,6 +1,6 @@
 ----
-title:Resources
 layout: page
+title:Resources
 ---
 
 
