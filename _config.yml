@@ -6,7 +6,7 @@ markdown: kramdown
 permalink: /:title
 
 url: "gridclub.io" 
-baseurl: 
+baseurl: "gridclub.io" 
 
 highlighter: pygments
 
