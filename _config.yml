@@ -8,7 +8,7 @@ permalink: /:title
 url: "gridclub.io" 
 baseurl: 
 
-highlighter: pygments
+highlighter: rouge
 
 sass:
   sass_dir: public/css
