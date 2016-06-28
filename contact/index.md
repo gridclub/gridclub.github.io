@@ -11,7 +11,7 @@ To get in touch with the officers of the group, feel free to send us an e-mail. 
 * Emma Kearney, Co-Chair of Programming, Statistics.
 * Sandra Castro-Pearson, Chief Financial Officer, Applied Mathematics.
 * Aruni Roy Chowdhury, Chief Technical Officer, Computer Science.
-* Katie Lear, Chief Networking Officer, Public Health.
+* Katie Leap, Chief Networking Officer, Biostatistics.
 * Ho-Zhen Chen, Chief Communications Officer, Civil Engineering.
 
 
