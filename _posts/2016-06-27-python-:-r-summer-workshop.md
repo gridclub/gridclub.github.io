@@ -9,7 +9,7 @@ tags: []
 
 **Data Science Workshops Open to All Students**
                 
-GRiD (Graduate Researchers Interested in Data) and GWIS (Graduate Women in STEM) are hosting two four-week free workshop series on data analysis: one teaching Python, one teaching R. Each workshop session will build on previous ones, but you need not attend all of them. Both series will cover the same data science topics.
+GRiD (Graduate Researchers in Data) and GWIS (Graduate Women in STEM) are hosting two four-week free workshop series on data analysis: one teaching Python, one teaching R. Each workshop session will build on previous ones, but you need not attend all of them. Both series will cover the same data science topics.
 
 Participants will receive hands-on coding experience interwoven with demonstrations by experienced graduate student programmers. Python and R workshops will be held in different rooms, but at the same time and will share a topic focus each week.
 
