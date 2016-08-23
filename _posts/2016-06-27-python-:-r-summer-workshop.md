@@ -15,7 +15,7 @@ Location: CS150 and CS151
 
 Date              | Time 	         | Topic                                        |  Slides
 ----------------- |:----------------:|:-------------------------------------------: | :----------------:
-Tuesday, July 12  | 2:00 - 4:00 PM   | Introduction to Python / Introduction to R   |     [R](../assets/summer-workshop-16/week_1.zip) / Python
+Tuesday, July 12  | 2:00 - 4:00 PM   | Introduction to Python / Introduction to R   |     [R](../../assets/summer-workshop-16/week_1.zip) / Python
 Tuesday, July 19  | 2:00 - 4:00 PM   | Data Extraction and Pre-Processing           |  	  [R]({{ site.url }}/assets/summer-workshop-16/week_2.zip) / Python
 Tuesday, July 26  | 2:00 - 4:00 PM   | Models and Inference         				|	  [R]({{ site.url }}/assets/summer-workshop-16/week_3.zip) / Python
 Tuesday, August 2 | 2:00 - 4:00 PM   | Visualization and Optimization Techniques	|	  [R]({{ site.url }}/assets/summer-workshop-16/week_4.zip) / Python
