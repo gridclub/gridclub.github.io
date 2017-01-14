@@ -11,7 +11,7 @@ Welcome. This is the webpage of the <b>GRiD</b> ("Graduate Researchers in Data")
 a bunch of people working and approaching data from different angles, such as mathematicians, statisticians, physicists, astronomers, bio-statisticians, computer and social scientists. 
 
 We are a recognized graduate organization at UMass Amherst and the first group here for graduate students with a focus on data science. You can find out more about us <a href=http://gridclub.io/about/>here</a>.
-	</p>
+</p>
 </div>
 
 
@@ -43,10 +43,27 @@ We are a recognized graduate organization at UMass Amherst and the first group h
                                                             </div>
                                                             <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 
+<!-- End MailChimp Signup Form -->
 
-                                                            <hr>
+<hr>
 
+
+
+{% assign currentEvent = site.data.upcomingEvents.first %}
+<h2><a href="{{ currentEvent.url }}">{{ currentEvent.start }}</a></h2>
+<p><strong>{{ currentEvent.location }}</strong></p>
+<p>{{ currentEvent.content }}</p>
+
+
+
+<hr>
+
+
+
+
+<!-- Begin Google Calendar -->
                                                             <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23cc0000&amp;src=6eu1qcuegsksushl8ah1pl48i0%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FNew_York" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<!-- End Google Calendar -->
 
 </div>
 

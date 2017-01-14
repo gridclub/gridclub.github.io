@@ -13,3 +13,8 @@ highlighter: rouge
 sass:
   sass_dir: public/css
   style: :compressed
+
+collections:
+  events:
+    output: true
+    permalink: /event/:path/
