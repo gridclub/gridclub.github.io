@@ -47,6 +47,11 @@ We are a recognized graduate organization at UMass Amherst and the first group h
 
 <hr>
 
+{% for post in site.posts limit:1 %}
+
+         {{ post.title }}
+
+{% endfor %}
 
 
 {% assign currentEvent = site.data.upcomingEvents.first %}
