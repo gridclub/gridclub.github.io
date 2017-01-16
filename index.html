@@ -47,19 +47,14 @@ We are a recognized graduate organization at UMass Amherst and the first group h
 
 <hr>
 
-<h2>Upcoming events</h2>
-{% for event in site.events limit:1 %}
+<h2>Events</h2>
+{% for event in site.events limit:5 %}
+         
+            <h3><a href="{{ event.url }}">{{ event.title }}</a></h3>
+            <p> event.blurb </p>
 
-         {{ event.title }}
-
+         
 {% endfor %}
-
-
-{% assign currentEvent = site.data.upcomingEvents.first %}
-<h2><a href="{{ currentEvent.url }}">{{ currentEvent.start }}</a></h2>
-<p><strong>{{ currentEvent.location }}</strong></p>
-<p>{{ currentEvent.content }}</p>
-
 
 
 <hr>
