@@ -51,7 +51,8 @@ We are a recognized graduate organization at UMass Amherst and the first group h
 {% for event in site.events limit:5 %}
          
             <h3><a href="{{ event.url }}">{{ event.title }}</a></h3>
-            <p> event.blurb </p>
+            <p> {{ event.blurb }} </p>
+            <p> URL: <a href="{{ event.url }}"> {{ event.url }}</a></p>
 
          
 {% endfor %}
