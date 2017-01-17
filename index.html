@@ -15,6 +15,22 @@ We are a recognized graduate organization at UMass Amherst and the first group h
 </div>
 
 
+<hr>
+
+<h2>Events</h2>
+<ul>
+{% for event in site.events limit:5 %}
+         <li>
+            <h3><a href="{{ event.url }}">{{ event.title }}</a></h3>
+            <p> {{ event.blurb }} </p>
+        </li>    
+{% endfor %}
+</ul> 
+
+<hr>
+
+
+
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -47,24 +63,9 @@ We are a recognized graduate organization at UMass Amherst and the first group h
 
 <hr>
 
-<h2>Events</h2>
-<ul>
-{% for event in site.events limit:5 %}
-         <li>
-            <h3><a href="{{ event.url }}">{{ event.title }}</a></h3>
-            <p> {{ event.blurb }} </p>
-        </li>
-</ul>
-
-         
-{% endfor %}
 
 
-<hr>
-
-
-
-
+<h2>Calendar</h2>
 <!-- Begin Google Calendar -->
                                                             <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23cc0000&amp;src=6eu1qcuegsksushl8ah1pl48i0%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FNew_York" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 <!-- End Google Calendar -->
