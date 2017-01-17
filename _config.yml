@@ -17,4 +17,3 @@ sass:
 collections:
   events:
     output: true
-    permalink: /events/:path/
