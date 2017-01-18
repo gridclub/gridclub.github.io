@@ -23,6 +23,8 @@ We are a recognized graduate organization at UMass Amherst and the first group h
 {% for event in site.events limit:5 %}
          <li>
             <h3><a href="{{ event.url }}">{{ event.title }}</a></h3>
+            <p> <b>Date:</b> {{ event.date }} </p>
+            <p> <b>Time:</b> {{ event.time }} </p>
             <p> {{ event.blurb }} </p>
         </li>    
 {% endfor %}
