@@ -10,6 +10,8 @@ baseurl:
 
 highlighter: rouge
 
+slider_array: []
+
 sass:
   sass_dir: public/css
   style: :compressed
