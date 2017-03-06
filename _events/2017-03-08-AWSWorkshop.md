@@ -8,7 +8,13 @@ location: "ISB 145"
 url:
 ---
 
-### What
+**What:** {{title}}
+**Where:** {{location}}
+**When:** {{date}} {{time}}
+
+
+
+### Why
 AWS is a way to get instant access to whatever computing power you need, without paying for the hardware. 
 
 This can be useful for researchers that need high performance computing capability. 
