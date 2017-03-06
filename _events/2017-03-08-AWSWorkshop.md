@@ -8,9 +8,9 @@ location: "ISB 145"
 url:
 ---
 
-**What:** {{title}}
-**Where:** {{location}}
-**When:** {{date}} {{time}}
+**What:** {{page.title}}
+**Where:** {{page.location}}
+**When:** {{page.date}} {{page.time}}
 
 
 
