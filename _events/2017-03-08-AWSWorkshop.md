@@ -9,15 +9,15 @@ url:
 ---
 
 
-### What: 
+### What 
 {{page.title}}
 
 
-### Where:
+### Where
 {{page.location}}
 
 
-### When:
+### When
 {{page.date | date_to_long_string}} {{page.time}}
 
 
@@ -30,7 +30,7 @@ Used correctly, it can be incredibly cost effective, and it's easier to use and 
 If you've ever had a computation that was slowing down your workflow, AWS might be the way to go!
 
 
-### Details:
+### Details
 
 No background will be assumed for this workshop, just be sure to bring your computer. 
 Also, it would be helpful to set up an AWS account ahead of time [here](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/get-set-up-for-amazon-ec2.html?utm_source=GRiD&utm_campaign=e80acf10c9-EMAIL_CAMPAIGN_2017_03_05&utm_medium=email&utm_term=0_faabe00dc6-e80acf10c9-368572485). 
