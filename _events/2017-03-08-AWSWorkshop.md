@@ -8,18 +8,27 @@ location: "ISB 145"
 url:
 ---
 
-**What:** {{page.title}}
-**Where:** {{page.location}}
-**When:** {{page.date}} {{page.time}}
 
+### What: 
+{{page.title}}
+
+
+### Where:
+{{page.location}}
+
+
+### When:
+{{page.date | date_to_long_string}} {{page.time}}
 
 
 ### Why
+
 AWS is a way to get instant access to whatever computing power you need, without paying for the hardware. 
 
 This can be useful for researchers that need high performance computing capability. 
 Used correctly, it can be incredibly cost effective, and it's easier to use and much more versatile than free options like the MGHPCC. 
 If you've ever had a computation that was slowing down your workflow, AWS might be the way to go!
+
 
 ### Details:
 
