@@ -7,16 +7,23 @@ To get in touch with the officers of the group, feel free to send us an e-mail. 
 
 ## Current Executive Board :
 
+* Gabriel Andrade, Co-Chair of Operations, Applied Mathematics.
+* Tangxin Jin, Co-Chair of Programming, Mathematics.
+* Sam Witty, Chief Financial Officer, Computer Science.
+* Daniel Saunders, Chief Technical Officer, Computer Science.
+* Connor Amorin, Chief Networking Officer, Applied Mathematics.
+* Jie Wang, Chief Outreach Officer, Mathematics.
+* Bianca Doone, Chief Communications Officer, Biostatistics.
+
+## Past officers of the group : 
+
+### Fall 2017 - Spring 2018
 * Oliver Spiro, Co-Chair of Operations, Applied Mathematics.
 * Emma Kearney, Co-Chair of Programming, Statistics.
 * Sandra Castro-Pearson, Chief Financial Officer, Applied Mathematics.
 * Aruni Roy Chowdhury, Chief Technical Officer, Computer Science.
 * Katie Leap, Chief Networking Officer, Biostatistics.
 * Ho-Zhen Chen, Chief Communications Officer, Civil Engineering.
-
-
-## Past officers of the group : 
-
 
 ### Fall 2015 - Spring 2016
 * Mark Hagemann, Co-Chair of Programming, Enviromental Engineering. 
@@ -26,7 +33,6 @@ To get in touch with the officers of the group, feel free to send us an e-mail. 
 * Konstantinos Gourgoulias, Chief Technical Officer, Applied Mathematics.
 * Andy Smith, Chief Outreach Officer, Evolution / Biology.
 * Emma Kearney, Chief Networking Officer, Statistics.
-
 
 ### May 2015 - November 2015
 * Mark Hagemann, Co-Chair, Enviromental Engineering.
